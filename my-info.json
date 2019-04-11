@@ -2,5 +2,10 @@
     "firstName" : "Rafael",
     "lastName" : "Castaneda",
     "preferredName" : "Rafael",
-    "email" : "rafaelcastaneda@lewisu.edu"
+    "email" : "rafaelcastaneda@lewisu.edu",
+    "city" : "Bolingbrook",
+    "state" : "IL",
+    "favoriteHobby" : "Biking",
+    "seatLocation" : "16"
+    
 }
